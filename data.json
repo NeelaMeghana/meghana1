@@ -1,0 +1,55 @@
+{
+"basics":{
+  "Name": "meghana",
+  "email": "nmkondisetty@gmail.com",
+  "mobile": "8074423642"
+},
+"career":{
+   "info":" To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+  "degree":"B.tech",
+  "Institute":"PSCMR",
+  "data":["2015-19","76%"]
+},
+{
+  "degree":"Intermediate/Diploma",
+  "Institute":"NARAYANA",
+  "data":["2013-15","86%"]
+},
+{
+  "degree":"SSC",
+  "Institute":"Gowtham Public School",
+  "data":["2012-13","7.8"]
+}
+],
+"achivements":[
+  {
+     "name":"awarded with <b>1<sup>st</sup>prize</b> in <q>throwball</q>"
+  },
+  {
+    "name":"awarded with <strong>1<sup>st</sup>prize</strong> in <q>paper presentation</q>"
+    }
+],
+"technicalskills":[
+{
+  "name":"programming languages",
+  "data":["c","java","c++"]
+},
+{
+  "name":"Database",
+  "data":["oracle","mysql"]
+},
+{
+
+    "name":"web technologies",
+    "data":["html","php","css"]
+  },
+  {
+    "name":"libraries",
+    "data":["jquery","booster","code igniter"]
+
+  }
+]
+}
